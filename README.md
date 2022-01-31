@@ -3,7 +3,7 @@ Hi, my name is Alma. I'm a graduate student at University of Iowa taking Busines
 
 ### 💡 Core Competencies
 - Tools: SQL, Python, Tableau, Excel 
-- Skills: Transact SQL, Data Analysis, Relational Database, Visualization, Business Analysis, Web Scraping
+- Skills: Transact SQL, Data Analysis, Relational Database, Visualization, Web Scraping
 
 ### 📚 Projects
 - Click **[HERE](https://almayoung.github.io/)** for my projects.
