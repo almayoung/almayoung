@@ -10,6 +10,7 @@ Hi, my name is Alma. I'm a graduate student at University of Iowa taking Busines
 
 ### 📝 Currently Learning
 - [Python Data Analysis & Visualization](https://www.udemy.com/course/python-data-analysis-visualization/)
+- [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
 - Google Data Analytics Professional Certificate from Coursera
 
 ### 🙌🏻 Connect with Me
