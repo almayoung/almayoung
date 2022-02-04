@@ -11,7 +11,7 @@ Hi, my name is Alma. I'm a graduate student at University of Iowa taking Busines
 ### 📝 Currently Learning
 - [Python Data Analysis & Visualization](https://www.udemy.com/course/python-data-analysis-visualization/)
 - [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
-- Google Data Analytics Professional Certificate from Coursera
+- [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science/home/welcome)
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alma-young-965a0311b/)
