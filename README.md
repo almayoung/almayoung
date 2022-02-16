@@ -15,7 +15,7 @@ Hi, my name is Alma. I'm a graduate student at University of Iowa taking Busines
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alma-young-965a0311b/)
-- [Kaggle](https://www.kaggle.com/adyoung)
+- [Twitter](https://twitter.com/ayoung728)
 
 
 <!--
